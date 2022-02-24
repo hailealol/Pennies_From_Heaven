@@ -1,0 +1,15 @@
+C:\Users\Reynolds_Hailea\Desktop\Code\Pennies From Heaven\obj\Debug\Pennies From Heaven.csproj.AssemblyReference.cache
+C:\Users\Reynolds_Hailea\Desktop\Code\Pennies From Heaven\obj\Debug\MainWindow.g.cs
+C:\Users\Reynolds_Hailea\Desktop\Code\Pennies From Heaven\obj\Debug\App.g.cs
+C:\Users\Reynolds_Hailea\Desktop\Code\Pennies From Heaven\obj\Debug\Pennies From Heaven_MarkupCompile.cache
+C:\Users\Reynolds_Hailea\Desktop\Code\Pennies From Heaven\obj\Debug\Pennies From Heaven_MarkupCompile.lref
+C:\Users\Reynolds_Hailea\Desktop\Code\Pennies From Heaven\bin\Debug\Pennies From Heaven.exe.config
+C:\Users\Reynolds_Hailea\Desktop\Code\Pennies From Heaven\bin\Debug\Pennies From Heaven.exe
+C:\Users\Reynolds_Hailea\Desktop\Code\Pennies From Heaven\bin\Debug\Pennies From Heaven.pdb
+C:\Users\Reynolds_Hailea\Desktop\Code\Pennies From Heaven\obj\Debug\MainWindow.baml
+C:\Users\Reynolds_Hailea\Desktop\Code\Pennies From Heaven\obj\Debug\Pennies From Heaven.g.resources
+C:\Users\Reynolds_Hailea\Desktop\Code\Pennies From Heaven\obj\Debug\Pennies_From_Heaven.Properties.Resources.resources
+C:\Users\Reynolds_Hailea\Desktop\Code\Pennies From Heaven\obj\Debug\Pennies From Heaven.csproj.GenerateResource.cache
+C:\Users\Reynolds_Hailea\Desktop\Code\Pennies From Heaven\obj\Debug\Pennies From Heaven.csproj.CoreCompileInputs.cache
+C:\Users\Reynolds_Hailea\Desktop\Code\Pennies From Heaven\obj\Debug\Pennies From Heaven.exe
+C:\Users\Reynolds_Hailea\Desktop\Code\Pennies From Heaven\obj\Debug\Pennies From Heaven.pdb
